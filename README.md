@@ -1,4 +1,4 @@
-# Week-3
+# Week-3 Tasks
 
 ## TASK 1 (Conditional flow)
 
@@ -41,7 +41,8 @@ students = [“Chloe”, “Anna”, “Lauren”, “Shreya”, “Siobhan”]
 print(sorted(students)[1])
 However, when I run the program it shows me a different answer to what I was expecting? What is the mistake? How do I fix it?
 ### Question 2
-You are trying to get rid of your old stuff in a bootsale and want to set up a program to quickly return the price when given an item. 
+You are trying to get rid of your old stuff in a bootsale and want to set up a program to quickly return the price when given an item.
+
 ●	Create a ‘shop’ dictionary with at least 4 items and respective prices. 
 ●	Write some code that will take in the name of an item and output the price
 
