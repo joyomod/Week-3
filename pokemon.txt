@@ -1,0 +1,1 @@
+charizard, Height: 17, Weight: 905
