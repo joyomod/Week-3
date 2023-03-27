@@ -1,3 +1,3 @@
-# Week-3 Tasks
+# Project Repository
 
 Repository for Projects
