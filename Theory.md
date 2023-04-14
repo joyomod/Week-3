@@ -4,7 +4,8 @@
 
 | 1.1 What does SDLC stand for? | 1 mark |
 | ----------------------------- | ------ |
-
+> **Answer:**
+Software Development LifeCycle, which is a process that ensures the production of high-quality software the most cost-effective and timely manner
 ---
 
 | 1.2 What exception is thrown when you divide a number by 0? | 1 mark |
