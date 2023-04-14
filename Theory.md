@@ -5,17 +5,19 @@
 | 1.1 What does SDLC stand for? | 1 mark |
 | ----------------------------- | ------ |
 > **Answer:**
-Software Development LifeCycle, which is a process that ensures the production of high-quality software the most cost-effective and timely manner
+Software Development LifeCycle, which is a process that ensures the production of high-quality software in the most cost-effective and timely manner.
 ---
 
 | 1.2 What exception is thrown when you divide a number by 0? | 1 mark |
 | ----------------------------------------------------------- | ------ |
-
+> **Answer:**
+ZeroDivisionError
 ---
 
 | 1.3 What is the git command that moves code from the local repository to the remote repository? | 1 mark |
 | ----------------------------------------------------------------------------------------------- | ------ |
-
+> **Answer:**
+`git push`
 ---
 
 | 1.4 What does NULL represent in a database? | 1 mark |
