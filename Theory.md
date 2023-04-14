@@ -29,8 +29,8 @@ The value of a column is missing or empty
 | 1.5 Name 2 responsibilities of the Scrum Master | 2 marks |
 | ----------------------------------------------- | ------- |
 > **Answer:**
-**Facilitate the Scrum process:** The Scrum Master supports and enforces the Scrum process and other rules that the team has agreed, thereby keeping the team on track.
-> **Remove impediments:** The Scrum Master is responsible for managing any obstacles that arise for the team, and helping to clear them and protect the team from distractions.
+- **Facilitate the Scrum process:** The Scrum Master supports and enforces the Scrum process and other rules that the team has agreed, thereby keeping the team on track.
+- **Remove impediments:** The Scrum Master is responsible for managing any obstacles that arise for the team, and helping to clear them and protect the team from distractions.
 
 ---
 
