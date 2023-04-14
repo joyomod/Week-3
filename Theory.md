@@ -1,6 +1,6 @@
 <img src="media/image1.png" alt= “” width="100" height="100">
 
-<img src="media/image2.png" alt= “” width="100" height="100">
+<img src="media/image2.png" alt= “” width="600" height="100">
 
 **JOY OMODIALE - FOUNDATION ASSESSMENT II MATERIAL RELEASE** THEORY
 QUESTIONS
