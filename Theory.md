@@ -30,8 +30,7 @@ The value of a column is missing or empty
 | ----------------------------------------------- | ------- |
 > **Answer:**
 **Facilitate the Scrum process:** The Scrum Master supports and enforces the Scrum process and other rules that the team has agreed, thereby keeping the team on track.
->
-**Remove impediments:** The Scrum Master is responsible for managing any obstacles that arise for the team, and helping to clear them and protect the team from distractions.
+> **Remove impediments:** The Scrum Master is responsible for managing any obstacles that arise for the team, and helping to clear them and protect the team from distractions.
 
 ---
 
@@ -54,7 +53,8 @@ def can_pay(price, cash_given):
 > **Answer:**
 If the values of the parameter’s ‘price’ or ‘cash_given’ are not integers or floats, but a different data type like a string it would result in an error. So, we would need to include exception handling such as try and except. The modified code below has exception handling, here, I have told the program to run the code within the try block and if it runs into an error or has code that might cause an exception, it should skip and jump to the except block and if no exception occurs the exception block is skipped.
 
-```def can_pay(price, cash_given):
+```
+def can_pay(price, cash_given):
     try:
         if cash_given >= price:
             return True
