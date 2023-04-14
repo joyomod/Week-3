@@ -1,6 +1,6 @@
-![](media/image1.png){width="0.7861329833770778in" height="1.078125546806649in"}
+<img src="media/image1.png" alt= “” width="100" height="100">
 
-![](media/image2.png){width="5.011759623797025in" height="0.9416666666666667in"}
+<img src="media/image2.png" alt= “” width="100" height="100">
 
 **JOY OMODIALE - FOUNDATION ASSESSMENT II MATERIAL RELEASE** THEORY
 QUESTIONS
