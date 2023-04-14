@@ -45,8 +45,8 @@
 
 > **Answer:**
 >
-> - **Exception handling:** The.
-> - **Printing and Checking:** The .
+> - **Exception handling:** This is used when we want to handle errors that might occur on code exceution.
+> - **Printing and Checking:** This is used when we want to display and inspect variable or values that might be causing some error in out code
 
 ---
 
